@@ -13,6 +13,7 @@ for r in range(0,int(input())):
         #print(ch)
         if ch=='(':
             print(i,end=" ");
+            list.append(i)
             i=i+1;
         elif ch==')':
             print(list.pop(-1), end=" ")

@@ -1,8 +1,8 @@
-"""Print Bracket Number :GFG 
+"""
+Print Bracket Number :GFG 
 Difficulty : easy
 Lang :  python
-
-Answer :"""
+"""
 
 
 for r in range(0,int(input())):
